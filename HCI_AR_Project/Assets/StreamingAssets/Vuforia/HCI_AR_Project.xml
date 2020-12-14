@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="xmasTree" size="626.000000 626.000000" />
+    <ImageTarget name="x-mas" size="1279.000000 1300.000000" />
+  </Tracking>
+</QCARConfig>
